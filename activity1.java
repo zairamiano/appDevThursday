@@ -3,7 +3,7 @@ public class Activity1 {
         System.out.println("List of Students:");
 
    
-       System.out.println("Your Full Name - Section");
+       System.out.println("Marianne Joy Lorca -BSIT-2L");
 	System.out.println("Lander Mark Bermejo -BSIT-2L");
 
 
