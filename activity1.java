@@ -31,5 +31,7 @@ public class Activity1 {
         System.out.rintln("Aliyah Elysa S. Santander - BSIT-2L");
         System.out.println("Jay Jay Clapis - BSIT 2K");
         System.out.println("Jommel M. Hallig");
+	System.out.println("Angel Mae Valdez - BSIT-2K");
+	
      }
 }
