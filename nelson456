@@ -1,0 +1,8 @@
+public class Activity1 {
+    public static void main(String[] args) {
+        System.out.println("nelson estonilo bsit 2k:");
+        System.out.println("Juan Cruz - BSIT 2C");
+        System.out.println("John Doe - BSIT 2D");
+        System.out.println("Jane Smith - BSIT 2A");
+    }
+}
