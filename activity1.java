@@ -34,9 +34,13 @@ public class Activity1 {
       System.out.println("Justin Emmanuel P. Delbo - BSIT2L");
 	  System.out.println("Kleine Paul Clark - BSIT-2L"); 
 
+
+       System.out.println("Carl Vincent Banas");
+
       System.out.println("Xialeemar Bautista - BSIT-2K");
 
        System.out.println("Paul Vincent Mahinay");
+
 
 
 
