@@ -5,6 +5,9 @@ public class Activity1 {
         // Collaborators: Add your names below using the format:
         // System.out.println("Your Full Name - Section");
 
+	  System.out.println("Iverson T. De Guzman - BSIT-2L"); 
+
+
 	    
         System.out.println("Mark Vincent Cerzo - BSIT-2K");
         System.out.println("Marianne Joy Lorca -BSIT-2L");
@@ -47,6 +50,7 @@ public class Activity1 {
         System.out.rintln("Aliyah Elysa S. Santander - BSIT-2L");
         System.out.println("Jay Jay Clapis - BSIT 2K");
         System.out.println("Jommel M. Hallig");
+
 
 
      }
