@@ -19,6 +19,9 @@ public class Activity1 {
 
       System.out.println("Justin Emmanuel P. Delbo - BSIT2L");
 	  System.out.println("Kleine Paul Clark - BSIT-2L"); 
+
+	    System.out.println("Michaela Angel Raquino - BSIT-2K");
+
            System.out.println("Carlo Gejos - BSIT-2K");
 
 
@@ -41,6 +44,7 @@ public class Activity1 {
         System.out.rintln("Aliyah Elysa S. Santander - BSIT-2L");
         System.out.println("Jay Jay Clapis - BSIT 2K");
         System.out.println("Jommel M. Hallig");
+
 
      }
 }
