@@ -19,6 +19,9 @@ public class Activity1 {
         System.out.println("Jay Mark R. Piano - 2L");
         System.out.println("Geringer, Ivan Rolf G - BSIT-2L");
 
+System.out.println("Justin Emmanuel P. Delbo - BSIT2L");
+
+
 
       System.out.println("Justin Emmanuel P. Delbo - BSIT2L");
 	  System.out.println("Kleine Paul Clark - BSIT-2L"); 
@@ -35,6 +38,7 @@ public class Activity1 {
 
 
         System.out.println("Justin Emmanuel P. Delbo - BSIT2L");
+
         System.out.println("Kleine Paul Clark - BSIT-2L"); 
         System.out.println("Mark Andew Rodrigo - BSIT-2L");
         System.out.println("Justin Emmanuel P. Delbo - BSIT2L");
@@ -51,11 +55,17 @@ public class Activity1 {
         System.out.println("Jay Jay Clapis - BSIT 2K");
         System.out.println("Jommel M. Hallig");
 
+      System.out.println("Justin Emmanuel P. Delbo - BSIT2L");
+	  System.out.println("Kleine Paul Clark - BSIT-2L"); 
+ 	System.out.println("Treselle Anne P. Granado - 2k");
+
+
 	System.out.println("Juztine Abijah P. Reyes - BSIT-2K");
 
 
 	System.out.println("Angel Mae Valdez - BSIT-2K");
 	
+
 
 
      }
