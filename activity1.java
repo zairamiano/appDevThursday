@@ -3,9 +3,9 @@ public class Activity1 {
         System.out.println("List of Students:");
 
         // Collaborators: Add your names below using the format:
-        System.out.println("Mark Vincent Cerzo - BSIT-2K");
+        
         // System.out.println("Your Full Name - Section");
-
+System.out.println("Mark Vincent Cerzo - BSIT-2K");
    
        System.out.println("Marianne Joy Lorca -BSIT-2L");
 	System.out.println("Lander Mark Bermejo -BSIT-2L");
@@ -48,6 +48,9 @@ System.out.println(jommel M. Hallig - BSIT-2L");
 
           System.out.println("Leo John Policarpio - BSIT 2L");
 
+      System.out.println("Kimberly Allosada - BSIT-2K");
+
+
        System.out.println("Carl Vincent Banas");
 
       System.out.println("Xialeemar Bautista - BSIT-2K");
@@ -64,6 +67,7 @@ System.out.println(jommel M. Hallig - BSIT-2L");
 
 
 System.out.println("Jommel M. Hallig"):
+
 
 
 
