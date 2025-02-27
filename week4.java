@@ -4,6 +4,9 @@ public class week4 {
         // Call each student's method
         //student1.display();
        // Add your method below
-         Piano.display();
+
+        Hernandez.display(); 
+        Piano.display();
+
     }
 }
