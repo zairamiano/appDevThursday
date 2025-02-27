@@ -5,5 +5,6 @@ public class week4 {
         //student1.display();
        // Add your method below
          Piano.display();
+         Geringer.display();
     }
 }
