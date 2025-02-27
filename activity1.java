@@ -87,6 +87,9 @@ System.out.println("Justin Emmanuel P. Delbo - BSIT2L");
 
 	System.out.println("Angel Mae Valdez - BSIT-2K");
 
+	System.out.println("John Arnold Palatan - BSIT-2K");
+
+
 	System.out.println("Daisy A. Muyrong - BSIT-2L");
 
 
@@ -102,6 +105,7 @@ System.out.println("Justin Emmanuel P. Delbo - BSIT2L");
 
 	System.out.println("John Arnold Palatan - BSIT-2K");
 	
+
 
 
 	
