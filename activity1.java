@@ -3,12 +3,12 @@ public class Activity1 {
         System.out.println("List of Students:");
 
         // Collaborators: Add your names below using the format:
-        // System.out.println("Your Full Name - Section");
+        // System.out.println("Don Edward Lopez - BSIT 2L");
 	    System.out.println("Andrei Jose D. Tuazon - BSIT-2L");
-        // System.out.println("Your Full Name - Section");
+        // System.out.println("Don Edward Lopez - BSIT 2L");
 	   System.out.println("Shane Arianne Pol- BSIT-2L");
 	  System.out.println("Iverson T. De Guzman - BSIT-2L"); 
-        // System.out.println("Your Full Name - ");
+        // System.out.println("Don Edward Lopez - ");
         System.out.println("Pauline M. Perez - BSIT-2L"); 
 	  System.out.println("Iverson T. De Guzman - BSIT-2L"); 
           
