@@ -3,10 +3,18 @@ public class Activity1 {
         System.out.println("List of Students:");
 
         // Collaborators: Add your names below using the format:
+
         // System.out.println("Your Full Name - Section");
 	   System.out.println("Shane Arianne Pol- BSIT-2L");
 	  System.out.println("Iverson T. De Guzman - BSIT-2L"); 
 
+        // System.out.println("Your Full Name - ");
+
+        System.out.println("Pauline M. Perez - BSIT-2L"); 
+
+
+	  System.out.println("Iverson T. De Guzman - BSIT-2L"); 
+          
 
 	    
         System.out.println("Mark Vincent Cerzo - BSIT-2K");
@@ -19,7 +27,11 @@ public class Activity1 {
         System.out.println("Jay Mark R. Piano - 2L");
         System.out.println("Geringer, Ivan Rolf G - BSIT-2L");
 
+     System.out.println("Kaylah Marie E. Deauna - BSIT-2K");
 System.out.println("Justin Emmanuel P. Delbo - BSIT2L");
+
+       System.out.println("Justin Emmanuel P. Delbo - BSIT2L");
+
 
 
 
@@ -61,11 +73,39 @@ System.out.println("Justin Emmanuel P. Delbo - BSIT2L");
 
 
 	System.out.println("Juztine Abijah P. Reyes - BSIT-2K");
-
+               System.out.println("nelson estonilo M");
 
 	System.out.println("Angel Mae Valdez - BSIT-2K");
+
+
+	System.out.println("John Arnold Palatan - BSIT-2K");
+	
 	
 
+	
+	System.out.println("Lorenz Brian R Tejado - BSIT-2L");
+
+
+	System.out.println("Mark Anthony Cahig - BSIT-2K");
+
+
+        System.out.rintln("Abdulmoed Gamoranao - BSIT-2L");
+
+
+
+
+	System.out.println("Angelica Batuigsd - BSIT-2K");
+
+        System.out.println("Alinajer T. Mocadiman - BSIT-2L");
+
+
+	System.out.println("Aldrei Khen N. Alcantara - BSIT - 2K");
+
+
+
+
+
+	System.out.println("Judiel Gollena - BSIT 2-L");
 
 
      }
