@@ -4,6 +4,7 @@ public class week4 {
         // Call each student's method
         //student1.display();
        // Add your method below
-      
+      Hernandez.display(); // Already added
+        Hernandez.display(); // New student adds their method here
     }
 }
