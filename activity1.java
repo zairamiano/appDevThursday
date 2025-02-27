@@ -78,7 +78,12 @@ System.out.println("Justin Emmanuel P. Delbo - BSIT2L");
 
 
 	System.out.println("Juztine Abijah P. Reyes - BSIT-2K");
+
+
+         System.out.println("karyl galvan - BSIT-2L");
+
                System.out.println("nelson estonilo M");
+
 
 	System.out.println("Angel Mae Valdez - BSIT-2K");
 
