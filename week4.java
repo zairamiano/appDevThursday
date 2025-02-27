@@ -8,7 +8,20 @@ public class week4 {
        // Add your method below
         // More students will add their method calls here...
 
+
         Hallig.display()
+
+         Piano.display();
+         Geringer.display();
+         ClarkKurt.display();
+         Hernandez.display(); 
+         Piano.display();
+
+Oliveros.display();
+
+Hallig.display()
+
+
 	Smith.display();
 	Piano.display();
 	Geringer.display();
@@ -17,6 +30,7 @@ public class week4 {
 	Piano.display();
 	KPClark.display();
 	Bermejo.display();
+
 
     }
 }
