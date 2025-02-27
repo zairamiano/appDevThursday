@@ -14,7 +14,11 @@ public class week4 {
          ClarkKurt.display();
          Hernandez.display(); 
          Piano.display();
+
+Oliveros.display();
+
 Hallig.display()
+
 
 	Smith.display();
 	Piano.display();
@@ -23,6 +27,7 @@ Hallig.display()
 	Hernandez.display(); 
 	Piano.display();
 	KPClark.display();
+
 
     }
 }
