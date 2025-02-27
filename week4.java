@@ -6,10 +6,9 @@ public class week4 {
         // More students will add their method calls here...
          Piano.display();
          Geringer.display();
-          
-      	ClarkKurt.display();
-        Hernandez.display(); 
-        Piano.display();
+         ClarkKurt.display();
+         Hernandez.display(); 
+         Piano.display();
 
     }
 }
