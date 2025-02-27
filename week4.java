@@ -21,7 +21,7 @@ Oliveros.display();
 
 Hallig.display()
 
-
+Pascua.display();
 	Smith.display();
 	Piano.display();
 	Geringer.display();
@@ -29,9 +29,11 @@ Hallig.display()
 	Hernandez.display(); 
 	Piano.display();
 	KPClark.display();
+
 	Bermejo.display();
 
 Santander.display()
+
     }
 }
 
