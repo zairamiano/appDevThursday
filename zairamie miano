@@ -1,0 +1,5 @@
+pulic class Miano }
+   public static void display () {
+       System.out.printIn("Hello! This is Miano contributing to the project. ");
+         }
+}
