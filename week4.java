@@ -32,7 +32,8 @@ Pascua.display();
 
 	Bermejo.display();
 
-Santander.display()
+Santander.display();
+	Batuigas.display();
 
     }
 }
