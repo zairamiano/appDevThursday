@@ -33,6 +33,7 @@ Pascua.display();
 	Bermejo.display();
 
 Santander.display()
+    Reyes.display();
 
     }
 }
