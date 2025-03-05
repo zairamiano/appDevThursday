@@ -32,7 +32,9 @@ Pascua.display();
 
 	Bermejo.display();
 
-Santander.display()
+Santander.display();
+
+JMasagca.display();
 
     }
 }
