@@ -70,6 +70,11 @@ Pascua.display();
 
 Santander.display();
 
+NMasagca.display();
+
+
+Santander.display();
+
 JMasagca.display();
 
 
@@ -92,6 +97,7 @@ Santander.display()
 
     Santander.display()
     Lorca.display()
+
 
 
 
