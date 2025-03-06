@@ -14,12 +14,10 @@ public class week5 {
 
         //lastname.display(); // Add your method call here
 
-         //estonilo.display(); // Add your method call here
-
-
         Piano.display();
+         Granado.display();
 
 
-
+>
     }
 }
