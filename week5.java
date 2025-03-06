@@ -19,6 +19,7 @@ public class week5 {
         estonilo.display();
 
         Hernandez.display();
+        Oliveros.display();
 
     }
 
