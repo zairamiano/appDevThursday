@@ -5,6 +5,7 @@ public class week5 {
         // Call each student's method
 
 
+
         ClarkKurt.display(); // Add your method call here
 
 
@@ -17,22 +18,24 @@ public class week5 {
 
          estonilo.display(); // Add your method call here
 
+
         ClarkKurt.display(); 
-
         Hernandez.display(); 
-
         Smith.display(); 
-
-
         Sonajo.display();
+
 
  
         Delbo.display()
          Granado.display();
+
         Pascua.display();
-
-
         estonilo.display(); 
+
+        Piano.display();
+        Hernandez.display();
+        Tejado.display();
+
 
 
 
@@ -40,6 +43,6 @@ public class week5 {
         Hernandez.display();
         Alcantara.display();
 
-    }
 
+    }
 }
