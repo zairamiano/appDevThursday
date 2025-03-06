@@ -37,11 +37,11 @@ Pascua.display();
 	Hernandez.display(); 
 	Piano.display();
 	KPClark.display();
+ estonilo.display();
 
 	Bermejo.display();
 
 Santander.display()
-
     }
 }
 
