@@ -69,6 +69,11 @@ Pascua.display();
 
 
 Santander.display();
+
+JMasagca.display();
+
+
+Santander.display();
 	Batuigas.display();
 
 	
@@ -87,6 +92,7 @@ Santander.display()
 
     Santander.display()
     Lorca.display()
+
 
 
 
