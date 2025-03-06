@@ -4,6 +4,15 @@ public class week5 {
 
         // Call each student's method
 
+        Sonajo.display();// lastname.display(); // Add your method call here
+
+        // lastname.display(); // Add your method call here
+        Torres.display();
+
+        Gollena.display(); // Add your method call here
+
+        DeGuzman.display(); // Add your method call here
+
         ClarkKurt.display(); // Add your method call here
 
         Hernandez.display(); // Add your method call here
@@ -29,7 +38,16 @@ public class week5 {
 
         estonilo.display();
 
+        Piano.display();
+
+        Geringer.display();
+
         Hernandez.display();
+        Tejado.display();
+
+        Hernandez.display();
+        Alcantara.display();
+
         Oliveros.display();
 
     }
