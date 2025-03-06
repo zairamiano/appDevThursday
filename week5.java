@@ -3,6 +3,34 @@ public class week5 {
         System.out.println("Collaborative Java Project\n");
 
         // Call each student's method
-        //lastname.display(); // Add your method call here
+
+        ClarkKurt.display(); 
+
+        Hernandez.display(); 
+
+        Smith.display(); 
+
+
+        Sonajo.display();
+
+       
+
         Pascua.display();
+
+
+        estonilo.display(); 
+
+
+        Piano.display();
+        Hernandez.display();
+
+
+       
+
+
+
+
+
+    }
+
 }
