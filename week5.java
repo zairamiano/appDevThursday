@@ -18,9 +18,7 @@ public class week5 {
 
         estonilo.display();
 
-        Piano.display();
         Hernandez.display();
-        Oliveros.display();
 
     }
 
