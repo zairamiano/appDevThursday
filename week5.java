@@ -13,8 +13,8 @@ public class week5 {
 
         Sonajo.display();
 
-       
-
+        Piano.display();
+         Granado.display();
         Pascua.display();
 
 
@@ -25,12 +25,7 @@ public class week5 {
         Hernandez.display();
 
 
-       
-
-
-
-
-
+      
     }
 
 }
