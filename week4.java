@@ -2,6 +2,14 @@ public class week4 {
     public static void main(String[] args) {
         System.out.println("Collaborative Java Project\n");
 
+       
+        // Call each student's method
+        student1.display();
+       
+        // More students will add their method calls here...
+	Gollena.display();
+
+
         // Call each student's method
 
         //student1.display();
@@ -29,10 +37,13 @@ Pascua.display();
 	Hernandez.display(); 
 	Piano.display();
 	KPClark.display();
+ estonilo.display();
 
 	Bermejo.display();
+
 
     Santander.display()
     Lorca.display()
     }
 }
+
