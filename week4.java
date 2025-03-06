@@ -83,6 +83,9 @@ Santander.display();
 
 	
 Santander.display()
+
+    Reyes.display();
+
 	Granado.display();
 
     Alcantara.display();
@@ -97,6 +100,7 @@ Santander.display()
 
     Santander.display()
     Lorca.display()
+
 
 
 
