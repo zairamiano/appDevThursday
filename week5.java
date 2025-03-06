@@ -69,6 +69,7 @@ public class week5 {
         Hernandez.display();
         Alcantara.display();
         Santander.display();
+		JMasagca.display();
     
 
 
