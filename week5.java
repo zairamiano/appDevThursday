@@ -4,23 +4,28 @@ public class week5 {
 
         // Call each student's method
 
+<<<<<<< Updated upstream
         ClarkKurt.display(); // Add your method call here
 
 
         Hernandez.display(); // Add your method call here
-
+        Policarpio.display();
 
         Smith.display(); // Add your method call here
 
 
         Sonajo.display();//lastname.display(); // Add your method call here
+=======
+        Sonajo.display();// lastname.display(); // Add your method call here
+>>>>>>> Stashed changes
 
-        //lastname.display(); // Add your method call here
+        // lastname.display(); // Add your method call here
 
          //estonilo.display(); // Add your method call here
 
 
         Piano.display();
+<<<<<<< Updated upstream
         Hernandez.display();
 
 
@@ -29,6 +34,9 @@ public class week5 {
 
 
 
+=======
+        
+>>>>>>> Stashed changes
 
     }
 }
