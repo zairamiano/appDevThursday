@@ -9,6 +9,7 @@ public class week5 {
 
         Smith.display(); // Add your method call here
 
+        Dela Torre.display(); // Add your method call here
 
         Sonajo.display();//lastname.display(); // Add your method call here
 
