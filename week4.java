@@ -11,13 +11,23 @@ public class week4 {
 
 
         // Call each student's method
-
-        //student1.display();
-       // Add your method below
+        // student1.display();
+        // Add your method below
         // More students will add their method calls here...
 
-
+        Piano.display();
         Hallig.display()
+
+        Geringer.display();
+        ClarkKurt.display();
+        Hernandez.display(); 
+        Oliveros.display();
+        Santander.display()
+        Pascua.display();
+	    Smith.display();
+	    KPClark.display();
+	    Bermejo.display();
+
 
          Piano.display();
          Geringer.display();
@@ -68,6 +78,7 @@ Santander.display()
 
     Santander.display()
     Lorca.display()
+
     }
 }
 
