@@ -4,28 +4,24 @@ public class week5 {
 
         // Call each student's method
 
-        ClarkKurt.display(); 
+        ClarkKurt.display();
 
-        Hernandez.display(); 
+        Hernandez.display();
 
-        Smith.display(); 
-
+        Smith.display();
 
         Sonajo.display();
 
         Piano.display();
-         Granado.display();
+        Granado.display();
         Pascua.display();
 
-
-        estonilo.display(); 
-
+        estonilo.display();
 
         Piano.display();
         Hernandez.display();
+        Oliveros.display();
 
-
-      
     }
 
 }
