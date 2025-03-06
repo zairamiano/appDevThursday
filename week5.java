@@ -4,6 +4,9 @@ public class week5 {
 
         // Call each student's method
 
+        ClarkKurt.display(); // Add your method call here
+
+
         Hernandez.display(); // Add your method call here
 
 
@@ -18,6 +21,7 @@ public class week5 {
 
 
         Piano.display();
+
 
 
 
