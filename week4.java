@@ -41,9 +41,9 @@ Pascua.display();
 
 	Bermejo.display();
 
-Santander.display()
+
+    Santander.display()
+    Lorca.display()
     }
 }
-
-
 
