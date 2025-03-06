@@ -66,6 +66,11 @@ Pascua.display();
 
         Valdez.display();
 	Bermejo.display();
+
+
+Santander.display();
+	Batuigas.display();
+
 	
 Santander.display()
 	Granado.display();
@@ -82,6 +87,7 @@ Santander.display()
 
     Santander.display()
     Lorca.display()
+
 
 
     }
