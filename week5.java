@@ -4,20 +4,21 @@ public class week5 {
 
         // Call each student's method
 
-        ClarkKurt.display(); // Add your method call here
+        ClarkKurt.display(); 
+
+        Hernandez.display(); 
+
+        Smith.display(); 
 
 
-        Hernandez.display(); // Add your method call here
+        Sonajo.display();
+
+       
+
+        Pascua.display();
 
 
-        Smith.display(); // Add your method call here
-
-
-        Sonajo.display();//lastname.display(); // Add your method call here
-
-        //lastname.display(); // Add your method call here
-
-         //estonilo.display(); // Add your method call here
+        estonilo.display(); 
 
 
         Piano.display();
@@ -31,4 +32,5 @@ public class week5 {
 
 
     }
+
 }
