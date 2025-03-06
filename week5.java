@@ -3,6 +3,6 @@ public class week5 {
         System.out.println("Collaborative Java Project\n");
 
         // Call each student's method
-        //lastname.display(); // Add your method call here
+        Sonajo.display();//lastname.display(); // Add your method call here
     }
 }
