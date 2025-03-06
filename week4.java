@@ -1,115 +1,32 @@
-public class week4 {
+public class Week4 {
     public static void main(String[] args) {
         System.out.println("Collaborative Java Project\n");
 
-       
         // Call each student's method
-        student1.display();
-       
-        // More students will add their method calls here...
-	Gollena.display();
-
-
-        // Call each student's method
-        // student1.display();
-        // Add your method below
-        // More students will add their method calls here...
-
+        Student1.display();
+        Gollena.display();
         Piano.display();
-        Hallig.display()
-
+        Hallig.display();
         Geringer.display();
         ClarkKurt.display();
-        Hernandez.display(); 
+        Hernandez.display();
         Oliveros.display();
-        Santander.display()
+        Santander.display();
         Pascua.display();
-	    Smith.display();
-	    KPClark.display();
-	    Bermejo.display();
-
-
-         Piano.display();
-         Geringer.display();
-         ClarkKurt.display();
-         Hernandez.display(); 
-         Piano.display();
-
-         Oliveros.display();
-        
-        Hallig.display()
-
-         Pascua.display();
-	     Smith.display();
-	     Piano.display();
-	     Geringer.display();
-	     ClarkKurt.display();
-	     Hernandez.display(); 
-	     Piano.display();
-	     KPClark.display();
-         Clapis.display();
-	     Bermejo.display();
-
-         Policarpio.display();
-Oliveros.display();
-
-Hallig.display()
-
-Pascua.display();
-	Smith.display();
-	Piano.display();
-	Geringer.display();
-	ClarkKurt.display();
-	Hernandez.display(); 
-	Piano.display();
-	KPClark.display();
-
+        Smith.display();
+        KPClark.display();
+        Bermejo.display();
+        Clapis.display();
+        Policarpio.display();
         Valdez.display();
-	Bermejo.display();
-
-
-Santander.display();
-
-NMasagca.display();
-
-
-Santander.display();
-
-JMasagca.display();
-
-
-Santander.display();
-	Batuigas.display();
-
-	
-Santander.display()
-
-Gejos.display();
-
-
-    Reyes.display();
-
-	Granado.display();
-
-    Alcantara.display();
-
-
- estonilo.display();
-
-	Bermejo.display();
-
-
-
-
-    Santander.display()
-    Lorca.display()
-
-
-
-
-
-
-
+        NMasagca.display();
+        JMasagca.display();
+        Batuigas.display();
+        Gejos.display();
+        Reyes.display();
+        Granado.display();
+        Alcantara.display();
+        Estonilo.display();
+        Lorca.display();
     }
 }
-
