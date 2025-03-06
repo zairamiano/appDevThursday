@@ -26,7 +26,8 @@ public class week5 {
 
         Sonajo.display();
 
-        Piano.display();
+ 
+        Delbo.display()
          Granado.display();
         Pascua.display();
 
