@@ -36,7 +36,11 @@ public class week5 {
         Alcantara.display();
         Santander.display();
 		NMasagca.display();
+<<<<<<< HEAD
         Bautista.Xialeemar();
+=======
+        Bautista.display();
+>>>>>>> 71b7b1bae56c1495dc1eed7aa73ab4123d786257
 
     }
 }
