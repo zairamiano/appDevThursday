@@ -37,5 +37,7 @@ public class week5 {
         Santander.display();
 		NMasagca.display();
         Gejos.display();
+        Dolom.display();
+
     }
 }
