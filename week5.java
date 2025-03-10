@@ -36,7 +36,6 @@ public class week5 {
         Alcantara.display();
         Santander.display();
 		NMasagca.display();
-
-
+        Gejos.display();
     }
 }
