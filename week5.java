@@ -5,6 +5,38 @@ public class week5 {
         // Call each student's method
         //lastname.display(); // Add your method call here
 
+
+	Oliveros.display();
+      Rodrigo.display();
+      Sonajo.display();
+      Torres.display();
+      Gollena.display(); 
+	DeGuzman.display();
+      ClarkKurt.display(); 
+      Hernandez.display(); 
+      Policarpio.display();
+      Smith.display();
+      Dela Torre.display(); 
+      Sonajo.display();
+      estonilo.display();
+      ClarkKurt.display(); 
+      Hernandez.display(); 
+      Smith.display(); 
+      Sonajo.display();
+      Valdez.display();
+      Delbo.display();
+      Granado.display();
+      Pascua.display();
+      estonilo.display(); 
+      Piano.display();
+      Geringer.display();
+      Tejado.display();
+      Hernandez.display();
+      Alcantara.display();
+      Santander.display();
+	NMasagca.display();
+	ClarkKleine.display();
+
         Rodrigo.display();
         Oliveros.display();
         Sonajo.display();
@@ -48,6 +80,7 @@ public class week5 {
 
 
 		NMasagca.display();
+
 
 
         Geringer.display();
