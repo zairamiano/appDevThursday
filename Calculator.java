@@ -5,6 +5,19 @@ public class Calculator {
     }
 
 
+   
+public class Calculator {
+    // Group 3: Multiply (Members: Hernandez, Pascua, Mocadiman, Gamoranao, Camacan, Deguzman, Mates)
+    public static int multiply(int a, int b) {
+        return a * b;
+    }
+
+    public static void main(String[] args) {
+        System.out.println("Product: " + Calculator.multiply(6, 3));
+    }
+}
+
+
     //Group 2: Subtract (Members: Piano, Bermejo, Pol, DelaTorre, Rodrigo, Tuazon, Melendres, Tejado)
     public static int subtract(int a, int b) {
         return a - b;
@@ -24,3 +37,4 @@ public class Calculator {
   
 
 }
+
