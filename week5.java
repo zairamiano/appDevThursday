@@ -34,8 +34,18 @@ public class week5 {
         Hernandez.display();
         Alcantara.display();
         Santander.display();
+    
+
+
+
+
+
 		NMasagca.display();
+
         Geringer.display();
+
+      JMasagca.display();
+
 
 
     }
