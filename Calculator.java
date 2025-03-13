@@ -1,4 +1,18 @@
 public class Calculator {
+
+    // Group 8: Max (Members: Estonilo, Batuigas, Bautista, Allosada, Bañas, Mahinay, Cerzo, Indonilla, Clapis, Urmatam, Larioza)
+    public static int add(int a, int b) {
+        return a + b;
+    }
+
+    // Group 8: Max method
+    public static int max(int a, int b) {
+        return (a > b) ? a : b;
+    }
+
+    // Other groups will add their methods here
+}
+
    // Group 7: Cube Method (Members: Galvan, Delbo,  Geringer, Policarpio, Smith, Miano, Cequena, Nuñez, Penales, Lopez )
     public static int cube(int a) {
         return a * a * a;
@@ -51,3 +65,4 @@ public class Calculator {
 public static int modulus(int a, int b) {
     return a % b;
 }
+
