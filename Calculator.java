@@ -36,5 +36,7 @@ public class Calculator {
     }
   
 
+// Group 5: Modulus (Members: Granado, Raquino, Torres, Beto, JMasagca, Gorpido, Palatan, Oliveros, Rosales, NMasagca, Sonajo)
+public static int modulus(int a, int b) {
+    return a % b;
 }
-
