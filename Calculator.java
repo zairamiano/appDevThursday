@@ -4,6 +4,15 @@ public class Calculator {
         return a + b;
     }
 
-     // Other groups will add their methods here
-  
+   
+Public class Calculator {
+  // Group 3: Multiply(Members: Hernandez, Pascua, Mocadiman, Gamoranao, Camacan, Deguzman)
+      public static in multiply(int a, int b) {
+         return a * b;
+      }
+        
+       public static void main(String[] args) {
+        Calculator calc = new Calculator();
+        System.out.println("Product: " + calc.add(6, 3));
+    }
 }
