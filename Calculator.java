@@ -5,5 +5,8 @@ public class Calculator {
     }
 
      // Other groups will add their methods here
-  
+     // Group 11: Addition (Members: ClarkKurt, ClarkKleine, Gollena, Lorca, Perez)
+     public static double sqrt(int a) {
+        return (double) Math.sqrt(a);
+    }
 }
