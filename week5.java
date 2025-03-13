@@ -90,6 +90,10 @@ public class Cequena {
 
 		NMasagca.display();
 
+        Dolom.display();
+        
+
+
         Gejos.display();
         Dolom.display();
 
@@ -109,6 +113,7 @@ public class Cequena {
 
 
         Larioza.display();
+
 
 
     }
