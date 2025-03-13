@@ -1,8 +1,11 @@
-public class week5 {
-    public static void main(String[] args) {
-        System.out.println("Collaborative Java Project\n");
+public class Cequena {
+    public static void display() {
+        int age = 29;
+        System.out.println("Hello! This is Cequena contributing to the project.");
+        System.out.println("My current age is: " + age);
+        System.out.println("Next year, I will be: " + (age + 1));
+    }
 
-        // Call each student's method
 
         Lopez.display(); // Add your method call here
 
@@ -95,3 +98,4 @@ public class week5 {
 
     }
 }
+
