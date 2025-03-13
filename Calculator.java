@@ -1,9 +1,13 @@
 public class Calculator {
-   // Group 1: Addition (Members: John, Sarah, Alex)
+    // Group 8: Max (Members: Estonilo, Batuigas, Bautista, Allosada, Bañas, Mahinay, Cerzo, Indonilla, Clapis, Urmatam, Larioza)
     public static int add(int a, int b) {
         return a + b;
     }
 
-     // Other groups will add their methods here
-  
+    // Group 8: Max method
+    public static int max(int a, int b) {
+        return (a > b) ? a : b;
+    }
+
+    // Other groups will add their methods here
 }
