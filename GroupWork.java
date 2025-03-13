@@ -14,11 +14,8 @@ public class GroupWork {
 
         // Calling methods from Calculator.java
 
-        // Group 3 Multiply (Member: Hernandez, Pascua, Mocadiman, Gamoranao, Camacan, Deguzman, Mates)
-       public static void main(String[] args) {
-        System.out.println("Product: " + Calculator.multiply(6, 3));
-    }
-}
+      
+      System.out.println("Product: " + Calculator.multiply(num1, num2)); // Group 3's method
 
         System.out.println("Sum: " + Calculator.add(num1, num2));  // Group 1's method
 
