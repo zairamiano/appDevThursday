@@ -9,8 +9,12 @@ public class GroupWork   {
        
         // Calling methods from Calculator.java
         System.out.println("Sum: " + Calculator.add(num1, num2));  // Group 1's method
+
+        System.out.println("Square Root: " + Calculator.sqrt(num1));  // Group 11's method
+
         System.out.println("Quotient: " + Calculator.divide(num1, num2));  // Group 4's method
         
+
      }
   }
 
