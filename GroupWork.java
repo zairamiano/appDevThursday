@@ -29,10 +29,9 @@ public class GroupWork {
 
         System.out.println("Square Root: " + Calculator.sqrt(num1));  // Group 11's method
 
-        System.out.println("Quotient: " + Calculator.divide(num1, num2));  // Group 4's method
+        System.out.println("Quotient: " + Calculator.divide(num1, num2));  // Group 4's
+        System.out.println("Modulus: " + Calculator.modulus(num1, num2));  // Group 5 method
 
-
-        
 
      }
 
