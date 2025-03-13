@@ -86,6 +86,9 @@ public class Cequena {
 
 
 		NMasagca.display();
+
+        Bautista.display();
+
         Miano.display();
 
 
@@ -97,6 +100,7 @@ public class Cequena {
 
 
         Larioza.display();
+
     }
 }
 
