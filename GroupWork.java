@@ -9,6 +9,9 @@ public class GroupWork   {
        
         // Calling methods from Calculator.java
         System.out.println("Sum: " + Calculator.add(num1, num2));  // Group 1's method
+       
+        //Calling methods from Calculator.java
+        System.out.println("Divide" + Calculator).divide(num1, num2)); //Group 4's method
         
      }
   }
