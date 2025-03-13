@@ -86,6 +86,7 @@ public class Cequena {
 
 
 		NMasagca.display();
+        Miano.display();
 
 
 
