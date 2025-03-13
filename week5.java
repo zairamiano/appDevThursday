@@ -29,12 +29,32 @@ public class week5 {
         Pascua.display();
         estonilo.display(); 
         Piano.display();
-        Geringer.display();
         Tejado.display();
         Hernandez.display();
         Alcantara.display();
         Santander.display();
+
 	    NMasagca.display();
         Tuazon.display();
+
+
+	NMasagca.display();
+	Clapis.display();
+
+    
+
+
+
+
+
+		NMasagca.display();
+
+
+        Geringer.display();
+
+      JMasagca.display();
+
+
+
     }
 }
