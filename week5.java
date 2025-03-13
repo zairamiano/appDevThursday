@@ -96,7 +96,7 @@ public class Cequena {
 
 
 
-
+        Larioza.display();
     }
 }
 
