@@ -90,6 +90,8 @@ public class Cequena {
 
 		NMasagca.display();
 
+        Gamoranao.display();
+
         Bautista.display();
 
         Miano.display();
