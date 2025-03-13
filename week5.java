@@ -3,6 +3,9 @@ public class week5 {
         System.out.println("Collaborative Java Project\n");
 
         // Call each student's method
+
+        Lopez.display(); // Add your method call here
+
         //lastname.display(); // Add your method call here
 
 
@@ -86,6 +89,7 @@ public class week5 {
         Geringer.display();
 
       JMasagca.display();
+
 
 
 
