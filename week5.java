@@ -90,6 +90,10 @@ public class Cequena {
 
 		NMasagca.display();
 
+        Gejos.display();
+        Dolom.display();
+
+
         Gamoranao.display();
 
         Bautista.display();
