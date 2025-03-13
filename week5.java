@@ -72,6 +72,9 @@ public class Cequena {
         Alcantara.display();
         Santander.display();
 
+	NMasagca.display();
+        Mocadiman.display();
+
 	    NMasagca.display();
         Tuazon.display();
 
@@ -100,6 +103,7 @@ public class Cequena {
 
 
         Larioza.display();
+
 
     }
 }
