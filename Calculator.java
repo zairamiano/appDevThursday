@@ -5,8 +5,16 @@ public class Calculator {
     }
 
      // Other groups will add their methods here
+
      // Group 11: Square Root (Members: ClarkKurt, ClarkKleine, Gollena, Lorca, Perez)
      public static double sqrt(int a) {
         return (double) Math.sqrt(a);
     }
+
+   // Group 4: Division (Members: ClarkKurt, ClarkKleine, Gollena, Lorca, Perez)
+    public static double divide(int a, int b) {
+        return (double) a/b;
+    }
+  
+
 }
