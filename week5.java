@@ -17,7 +17,7 @@ public class week5 {
         Hernandez.display(); 
         Policarpio.display();
         Smith.display();
-        Dela Torre.display(); 
+        DelaTorre.display(); 
         Sonajo.display();
         estonilo.display();
         ClarkKurt.display(); 
@@ -30,7 +30,6 @@ public class week5 {
         Pascua.display();
         estonilo.display(); 
         Piano.display();
-        Geringer.display();
         Tejado.display();
         Hernandez.display();
         Alcantara.display();
@@ -42,6 +41,9 @@ public class week5 {
 
 
 		NMasagca.display();
+
+        Geringer.display();
+
       JMasagca.display();
 
 
