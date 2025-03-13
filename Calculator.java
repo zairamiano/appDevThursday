@@ -5,14 +5,13 @@ public class Calculator {
     }
 
    
-Public class Calculator {
-  // Group 3: Multiply(Members: Hernandez, Pascua, Mocadiman, Gamoranao, Camacan, Deguzman)
-      public static in multiply(int a, int b) {
-         return a * b;
-      }
-        
-       public static void main(String[] args) {
-        Calculator calc = new Calculator();
-        System.out.println("Product: " + calc.add(6, 3));
+public class Calculator {
+    // Group 3: Multiply (Members: Hernandez, Pascua, Mocadiman, Gamoranao, Camacan, Deguzman, Mates)
+    public static int multiply(int a, int b) {
+        return a * b;
+    }
+
+    public static void main(String[] args) {
+        System.out.println("Product: " + Calculator.multiply(6, 3));
     }
 }
