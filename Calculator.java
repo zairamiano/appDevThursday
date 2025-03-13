@@ -4,6 +4,9 @@ public class Calculator {
         return a + b;
     }
 
-     // Other groups will add their methods here
+    //Group 2: Subtract (Members: Piano, Bermejo, Pol, DelaTorre, Rodrigo, Tuazon, Melendres, Tejado)
+    public static int subtract(int a, int b) {
+        return a - b;
+    }
   
 }
