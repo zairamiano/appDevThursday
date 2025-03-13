@@ -23,6 +23,17 @@ public class Calculator {
 
      // Other groups will add their methods here
 
+  //Group 4: Division (Members: Alcantara, Dolom, Gejos, Delavega, Bautista-J, Castilo, Deauna, Cahig, Valdez, Reyes, Sandoval)
+    public static double divide(int a, int b) {
+        if (b==0){
+            throw new 
+            ArithmeticException("Division by zero is not allowed.");
+        }
+        return (double) a/b;
+    }
+    
+
+
      // Group 11: Square Root (Members: ClarkKurt, ClarkKleine, Gollena, Lorca, Perez)
      public static double sqrt(int a) {
         return (double) Math.sqrt(a);
