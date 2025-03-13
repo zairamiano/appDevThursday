@@ -24,7 +24,8 @@ public class GroupWork   {
 
         System.out.println("Quotient: " + Calculator.divide(num1, num2));  // Group 4's method
 
-        
+        System.out.println("Modulus: " + Calculator.modulus(num1, num2));  // Group 5 method
+
 
      }
 
