@@ -2,7 +2,8 @@ import java.util.Scanner;
 public class GroupWork {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-
+        System.out.print("COLLAB CALCULATOR ");
+        System.out.print("++++++++++++++++++");
         System.out.print("Enter first number: ");
         int num1 = scanner.nextInt();
         System.out.print("Enter second number: ");
