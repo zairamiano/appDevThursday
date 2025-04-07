@@ -42,7 +42,6 @@ public class Cequena {
       Santander.display();
 	NMasagca.display();
 	ClarkKleine.display();
-
         Rodrigo.display();
         Oliveros.display();
         Sonajo.display();
@@ -54,7 +53,6 @@ public class Cequena {
         Hernandez.display(); 
         Policarpio.display();
         Smith.display();
-        DelaTorre.display(); 
         Sonajo.display();
         estonilo.display();
         ClarkKurt.display(); 
@@ -71,54 +69,20 @@ public class Cequena {
         Hernandez.display();
         Alcantara.display();
         Santander.display();
-
 	NMasagca.display();
         Mocadiman.display();
-
-	    NMasagca.display();
         Tuazon.display();
-
-
-	NMasagca.display();
 	Clapis.display();
-
-    
-
-
-
-
-
-		NMasagca.display();
-
         Allosada.display();
-
-
         Dolom.display();
-        
-
-
         Gejos.display();
         Dolom.display();
-
-
         Gamoranao.display();
-
         Bautista.display();
-
         Miano.display();
-
-
-
         Geringer.display();
-
       JMasagca.display();
-
-
-
         Larioza.display();
-
-
-
 
     }
 }
